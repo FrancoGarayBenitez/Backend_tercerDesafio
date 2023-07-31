@@ -1,0 +1,14 @@
+{
+  "name": "tercer_desafio_entregable",
+  "version": "1.0.0",
+  "description": "Servidor con Express.",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "Franco Garay Benitez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
